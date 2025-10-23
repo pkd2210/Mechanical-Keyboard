@@ -17,12 +17,3 @@ I layouted all the keyboard's switches + the pi
 ![screenshot_2025-08-24_002555_720.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjYsInB1ciI6ImJsb2JfaWQifX0=--414801dcb0f3f43ce9a6e7b0855746d0c1eb75ed/screenshot_2025-08-24_002555_720.png)
 ![screenshot_2025-08-24_002535_720.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjUsInB1ciI6ImJsb2JfaWQifX0=--30f9b25e48ef6cc99505fb5ba9b38daff7be4534/screenshot_2025-08-24_002535_720.png)
 In this part i created the layout and learned how to create a keyboard according to the 80% tkl layout, i used an online picture to do an accurate (hopefully) esstimaation about where each switch should go  
-
-## 9/23/2025 7 PM - Finished routing the keyboard  
-
-![image_720.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjgsInB1ciI6ImJsb2JfaWQifX0=--5fef34b3960d4a2ccea986b574e8c11928f72c3c/image_720.png)
-I routed all the switches in the keyboard and the board
-
-I litterly have nothing else to say here... What else should i put in here???????????
-Well, hello whoever reads this, i.... dont know how to make keyboards, or use matrixes, but i learn! so hopefully i will be able to make this keyboard  
-
