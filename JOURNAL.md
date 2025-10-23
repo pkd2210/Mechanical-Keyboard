@@ -6,14 +6,27 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **mechanical keyboard**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/12).
-
-
-## 9/23/2025 5 PM - finished layouting all the switches  
+## 9/23/2025 8 PM - finished layouting all the switches  
 
 I layouted all the keyboard's switches + the pi
 ![screenshot_2025-08-23_192235_720.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjcsInB1ciI6ImJsb2JfaWQifX0=--dc233e401c9003ea6761c07d4b99f1c6f2997acf/screenshot_2025-08-23_192235_720.png)
 ![screenshot_2025-08-24_002555_720.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjYsInB1ciI6ImJsb2JfaWQifX0=--414801dcb0f3f43ce9a6e7b0855746d0c1eb75ed/screenshot_2025-08-24_002555_720.png)
 ![screenshot_2025-08-24_002535_720.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjUsInB1ciI6ImJsb2JfaWQifX0=--30f9b25e48ef6cc99505fb5ba9b38daff7be4534/screenshot_2025-08-24_002535_720.png)
 In this part i created the layout and learned how to create a keyboard according to the 80% tkl layout, i used an online picture to do an accurate (hopefully) esstimaation about where each switch should go  
+
+## 9/23/2025 10 PM - Finished routing the keyboard  
+
+![image_720.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjgsInB1ciI6ImJsb2JfaWQifX0=--5fef34b3960d4a2ccea986b574e8c11928f72c3c/image_720.png)
+I routed all the switches in the keyboard and the board
+
+I litterly have nothing else to say here... What else should i put in here???????????
+Well, hello whoever reads this, i.... dont know how to make keyboards, or use matrixes, but i learn! so hopefully i will be able to make this keyboard  
+
+## 10/23/2025 - Finished routing the keyboard  
+
+ ![68747470733a2f2f626c75657072696e742e6861636b636c75622e636f6d2f757365722d6174746163686d656e74732f626c6f62732f72656469726563742f65794a66636d467062484d694f6e73695a474630595349364d6a6773496e423163694936496d4a7362324a66.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc4NywicHVyIjoiYmxvYl9pZCJ9fQ==--1cfa55a5188d27b268371f5c1388b8674f94f20a/68747470733a2f2f626c75657072696e742e6861636b636c75622e636f6d2f757365722d6174746163686d656e74732f626c6f62732f72656469726563742f65794a66636d467062484d694f6e73695a474630595349364d6a6773496e423163694936496d4a7362324a66.png)
+
+I routed all the switches in the keyboard and the board
+
+I litterly have nothing else to say here... What else should i put in here??????????? Well, hello whoever reads this, i.... dont know how to make keyboards, or use matrixes, but i learn! so hopefully i will be able to make this keyboard  
+
