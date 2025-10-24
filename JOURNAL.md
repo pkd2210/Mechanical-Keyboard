@@ -22,3 +22,11 @@ I routed all the switches in the keyboard and the board
 I litterly have nothing else to say here... What else should i put in here???????????
 Well, hello whoever reads this, i.... dont know how to make keyboards, or use matrixes, but i learn! so hopefully i will be able to make this keyboard  
 
+## 10/25/2025 - Created the case  
+
+![Screenshot 2025-10-25 001848](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--8ea2e79404f608e01cf5845430184f6d50ce34a4/Screenshot%202025-10-25%20001848.png)
+3D modeled the case for the keyboard, This is a template of how i'm gonna make the Wood version of this case, and how it should look.
+
+The case was made quite simply just to allow for a vision of it
+  
+
