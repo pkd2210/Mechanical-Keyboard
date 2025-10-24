@@ -22,11 +22,3 @@ I routed all the switches in the keyboard and the board
 I litterly have nothing else to say here... What else should i put in here???????????
 Well, hello whoever reads this, i.... dont know how to make keyboards, or use matrixes, but i learn! so hopefully i will be able to make this keyboard  
 
-## 10/23/2025 - Finished routing the keyboard  
-
- ![68747470733a2f2f626c75657072696e742e6861636b636c75622e636f6d2f757365722d6174746163686d656e74732f626c6f62732f72656469726563742f65794a66636d467062484d694f6e73695a474630595349364d6a6773496e423163694936496d4a7362324a66.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc4NywicHVyIjoiYmxvYl9pZCJ9fQ==--1cfa55a5188d27b268371f5c1388b8674f94f20a/68747470733a2f2f626c75657072696e742e6861636b636c75622e636f6d2f757365722d6174746163686d656e74732f626c6f62732f72656469726563742f65794a66636d467062484d694f6e73695a474630595349364d6a6773496e423163694936496d4a7362324a66.png)
-
-I routed all the switches in the keyboard and the board
-
-I litterly have nothing else to say here... What else should i put in here??????????? Well, hello whoever reads this, i.... dont know how to make keyboards, or use matrixes, but i learn! so hopefully i will be able to make this keyboard  
-
