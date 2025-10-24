@@ -1,7 +1,7 @@
 A 75$ 80$ keyboard, built using raspberry pi Pico.
 The keyboard is a matrix of switches, I built it to learn how to use matrixes and build keyboards (as my previous attempt was a failier)
 
-
+<img width="856" height="357" alt="Screenshot 2025-10-25 001848" src="https://github.com/user-attachments/assets/ddd38e1f-32b5-4306-b6e4-7b0bf3829a31" />
 <img width="634" height="298" alt="Screenshot 2025-10-24 202425" src="https://github.com/user-attachments/assets/c70d8da2-ef59-4c76-8d6b-26e49a2cf558" />
 <img width="1264" height="712" alt="Screenshot 2025-08-24 224919" src="https://github.com/user-attachments/assets/ee420ad6-8e9a-473b-af60-ed8afbf30ce0" />
 
