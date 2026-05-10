@@ -20,3 +20,5 @@ The keyboard is a matrix of switches, I built it to learn how to use matrixes an
 The keyboard i quite simple, with no cover or specific keycaps, beacuse i planed it to be customizwable with any case you want online, and any keycaps you want online.
 
 Personaly i'm gonna try to make a case out of wood, and order wood themed keycaps.
+# Update
+Updated the pcb layout to use a diffrent tkl layout, now with kleplacer and not manually (As Requested by my stasis reviewer)
