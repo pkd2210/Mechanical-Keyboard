@@ -21,6 +21,11 @@ The keyboard i quite simple, with no cover or specific keycaps, beacuse i planed
 
 Personaly i'm gonna try to make a case out of wood, and order wood themed keycaps.
 # Update
-Updated the pcb layout to use a diffrent tkl layout, now with kleplacer and not manually (As Requested by my stasis reviewer)
+* Updated the pcb layout to use a diffrent tkl layout, now with kleplacer and not manually (As Requested by my stasis reviewer)
 new image:
 <img alt="Screenshot 2025-08-24 224919" src="/image.png" />
+* Remade the case
+<img alt="Screenshot 2025-08-24 224919" src="/bottom.png" />
+<img alt="Screenshot 2025-08-24 224919" src="/top.png" />
+<img alt="Screenshot 2025-08-24 224919" src="/assemb.png" />
+
